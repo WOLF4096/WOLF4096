@@ -8,6 +8,9 @@
 联系方式-> wolf4096@foxmail.com  
 个狼网站-> [blog.wolf4096.top][4]  
 
+<img src="https://github-readme-stats-colour93.vercel.app/api?username=wolf4096&locale=cn&show_avatar=true&show_icons=true" width="400px"><br/>
+<img src="https://github-readme-stats-colour93.vercel.app/api/top-langs/?username=wolf4096&layout=compact&locale=cn" width="400px">
+
 
 
   [1]: https://s.cdnv1.hanwuss.com/static/upload/wolf4096/20220413/202204130713556643.gif
